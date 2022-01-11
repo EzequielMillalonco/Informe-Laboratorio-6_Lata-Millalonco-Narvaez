@@ -1,4 +1,4 @@
-# Informe-Laboratorio-1
+# Informe-Laboratorio-6
 
 ## 1. OBJETIVOS
  
@@ -46,4 +46,4 @@
 
 ## 7. BIBLIOGRAFÍA
 
-Alulema Darwin. Guías Primer Parcial https://classroom.google.com/u/0/w/NDEyOTg4NDk2MDQx/t/all?hl=es
+Alulema Darwin. Guías Segundo Parcial https://drive.google.com/file/d/1VR4dK9AqSu7R8K1Jd08_cN-j99_ptY_K/view
