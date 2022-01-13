@@ -34,6 +34,11 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/43OAexhJOv
 
 ![image](https://user-images.githubusercontent.com/93396250/149424077-f740e908-a761-46f5-beff-4c4c954a1473.png)
 
+Circuito implementado en DCACLAB: https://dcaclab.com/experiments/50139-laboratorio-6-potencia
+
+![Screenshot 2022-01-13 185119](https://user-images.githubusercontent.com/93826527/149427021-32aed389-a728-4aa1-a4f5-d356c25a7be0.png)
+
+
 
         6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 
