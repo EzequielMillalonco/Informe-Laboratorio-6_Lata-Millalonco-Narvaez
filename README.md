@@ -30,6 +30,9 @@ MATERIALES:
 
 ![image](https://user-images.githubusercontent.com/93396250/149243938-4599a8a6-6727-451c-9709-6be68cf3ded4.png)
 
+Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/43OAexhJOvQ-ezequiel-lab-6/editel?sharecode=v6F6Qps5A00ltCySDVXa217t3qW92AjzAMToVnYW3BA
+
+![image](https://user-images.githubusercontent.com/93396250/149424077-f740e908-a761-46f5-beff-4c4c954a1473.png)
 
 
         6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
