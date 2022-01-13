@@ -34,7 +34,17 @@ MATERIALES:
 
         6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 
-        
+![1](https://user-images.githubusercontent.com/93396250/149423835-fb7ca360-cd1b-40a2-bbc3-45aaed04727f.JPG)
+![2](https://user-images.githubusercontent.com/93396250/149423843-eb132227-8e70-4feb-bf94-f8e9ebe1defe.JPG)
+![3](https://user-images.githubusercontent.com/93396250/149423849-8dcfbb89-863d-43da-a604-c9a69218ab18.JPG)
+![4](https://user-images.githubusercontent.com/93396250/149423877-9b6d98e5-1458-4c2c-9a04-14b9db451b3b.JPG)
+![5](https://user-images.githubusercontent.com/93396250/149423883-159daae5-8008-4f25-af27-1a884758f559.JPG)
+![6](https://user-images.githubusercontent.com/93396250/149423888-75027bb9-7e87-450f-b17b-f2488a0fe6c3.JPG)
+![7](https://user-images.githubusercontent.com/93396250/149423894-ec6b32ed-8980-4032-b769-5ff727de9be0.JPG)
+![8](https://user-images.githubusercontent.com/93396250/149423897-c086d70c-84d8-4ee7-b569-52ef58b799bd.JPG)
+![9](https://user-images.githubusercontent.com/93396250/149423903-51a32be5-6f0f-4235-ad18-15d6b9320846.JPG)
+![10](https://user-images.githubusercontent.com/93396250/149423905-3928247f-8599-43a3-8ae5-f9d9164d5639.JPG)
+       
         6.5.3. Calcule las potencia consumida por RL, para cada valor dado.
         
         
