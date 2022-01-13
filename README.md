@@ -26,9 +26,12 @@
 
 ![image](https://user-images.githubusercontent.com/93396250/149243938-4599a8a6-6727-451c-9709-6be68cf3ded4.png)
 
+Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/5JDxE8wdw80-epic-albar/editel?sharecode=kKuwWCGhQTHgzn3qiZuZDHPZGIwhJyXH5bnOypFy4g0 
+
+![image](https://user-images.githubusercontent.com/93396250/149244406-e53d155f-c0e4-4df4-b0cd-4f41366a8c65.png)
 
         6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
-        
+
         
         6.5.3. Calcule las potencia consumida por RL, para cada valor dado.
         
