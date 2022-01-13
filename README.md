@@ -74,6 +74,9 @@ Circuito implementado en ThinkerCAD: https://www.tinkercad.com/things/43OAexhJOv
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 
+
+**CÁLCULO DEL PORCENTAJE DE ERROR**
+
 ## 5. VIDEO
 
         Link del video ¨Informe de laboratorio 1¨ en donde se explica la teoria de las Leyes de Kirchhoff mediante 
@@ -82,6 +85,7 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
  https://youtu.be/iyJIL712wRU
  
 [![Presentación Informe 1](https://img.youtube.com/vi/iyJIL712wRU/0.jpg)](https://www.youtube.com/watch?v=iyJIL712wRU)
+
 
 ## 6. CONCLUSIONES
 
