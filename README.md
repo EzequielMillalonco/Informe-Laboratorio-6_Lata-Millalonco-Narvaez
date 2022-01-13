@@ -20,6 +20,10 @@
 ![Untitled (18)](https://user-images.githubusercontent.com/93396250/149058150-5903c410-fa0a-4166-9e27-777ed826383b.jpg)
 ![Untitled (19)](https://user-images.githubusercontent.com/93396250/149058152-dc708003-adb2-4f2b-bd23-924a3e807eee.jpg)
 
+MATERIALES:
+
+![image](https://user-images.githubusercontent.com/93396250/149244593-df8482f8-df8f-4146-8768-30268dbbe319.png)
+
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
         6.5.1. Arme el circuito que se muestra en la figura 6.1.
