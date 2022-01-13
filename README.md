@@ -34,6 +34,8 @@ MATERIALES:
 
         6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 
+   Voltaje y corriente medida en cada valor de RL (en forma ascendente) en thinkerCAD
+
 ![1](https://user-images.githubusercontent.com/93396250/149423835-fb7ca360-cd1b-40a2-bbc3-45aaed04727f.JPG)
 ![2](https://user-images.githubusercontent.com/93396250/149423843-eb132227-8e70-4feb-bf94-f8e9ebe1defe.JPG)
 ![3](https://user-images.githubusercontent.com/93396250/149423849-8dcfbb89-863d-43da-a604-c9a69218ab18.JPG)
