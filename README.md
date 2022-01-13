@@ -24,6 +24,8 @@
 
         6.5.1. Arme el circuito que se muestra en la figura 6.1.
 
+![image](https://user-images.githubusercontent.com/93396250/149243938-4599a8a6-6727-451c-9709-6be68cf3ded4.png)
+
 
         6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
         
