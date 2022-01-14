@@ -59,6 +59,8 @@ Circuito implementado en DCACLAB: https://dcaclab.com/experiments/50139-laborato
         
         
         6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+        
+El teorema si se cumple, esto basado en los cálculos teóricos y resultados medidos experimentalmente, en el cual vemos que la máxima transferencia de potencia en Watts, se da con la resistencia de carga de 1 (KΩ), es decir la mas cercana al valor de la resistencia de fuente. Con esto queda comprobado que la máxima transferencia de potencia se da cuando RL es igual o casi igual a la resistencia de fuente.         
 
 
         6.5.5. ¿Cuál fue la potencia máxima en RL? __________________Watts
