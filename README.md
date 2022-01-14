@@ -85,7 +85,7 @@ Circuito implementado en DCACLAB: https://dcaclab.com/experiments/50139-laborato
 
 *P5*
 
-![15](https://user-images.githubusercontent.com/93396250/149443739-86117ef5-94ab-4ff1-9301-23b079b515ab.JPG)
+![image](https://user-images.githubusercontent.com/93396250/149444047-52d98574-3aa1-4516-aa63-6de81fac02d6.png)
 
 ![5](https://user-images.githubusercontent.com/93834732/149430610-cc46f37a-51bc-4f5d-84e4-a91bd1592f6e.GIF)
 
