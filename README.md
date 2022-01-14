@@ -59,41 +59,63 @@ Circuito implementado en DCACLAB: https://dcaclab.com/experiments/50139-laborato
   
   *P1*
 
+![11](https://user-images.githubusercontent.com/93396250/149443563-755d1816-9aa1-418e-a177-4689e3b88211.JPG)
+
+
 ![1](https://user-images.githubusercontent.com/93834732/149430517-3d1b5486-aebf-4f14-ad59-12a2507d5591.GIF)
 
 *P2*
+
+![12](https://user-images.githubusercontent.com/93396250/149443714-865ee3e8-ec19-446e-9059-e4e2e3e29257.JPG)
 
 ![2](https://user-images.githubusercontent.com/93834732/149430546-ccddbe38-061c-4fab-8d74-c85ce0f2d33c.GIF)
 
 *P3*
 
+![13](https://user-images.githubusercontent.com/93396250/149443719-ead5d1a7-a106-4aba-bf92-69a802d2f8af.JPG)
+
+
 ![3](https://user-images.githubusercontent.com/93834732/149430562-14cee16f-e5fe-4896-9b9d-c4d46eeda5a9.GIF)
 
 *P4*
+
+![14](https://user-images.githubusercontent.com/93396250/149443727-4ac6cccc-5ff6-456c-a582-5b6e3ca16e23.JPG)
 
 ![4](https://user-images.githubusercontent.com/93834732/149430586-9027190e-75a9-4c98-944f-1c3a4309af25.GIF)
 
 *P5*
 
+![15](https://user-images.githubusercontent.com/93396250/149443739-86117ef5-94ab-4ff1-9301-23b079b515ab.JPG)
+
 ![5](https://user-images.githubusercontent.com/93834732/149430610-cc46f37a-51bc-4f5d-84e4-a91bd1592f6e.GIF)
 
 *P6*
+
+![16](https://user-images.githubusercontent.com/93396250/149443757-6684773b-ef69-4e57-8a0d-4f097952cde0.JPG)
 
 ![6](https://user-images.githubusercontent.com/93834732/149430631-2ce4ab90-e793-434d-9dbe-b070815460dc.GIF)
 
 *P7*
 
+![17](https://user-images.githubusercontent.com/93396250/149443767-3e93f3f9-8e65-4d9f-802e-0f0e1ce4d992.JPG)
+
 ![7](https://user-images.githubusercontent.com/93834732/149430678-4d434dac-3d23-4679-b38b-72ecbe40fe02.GIF)
 
 *P8*
+
+![18](https://user-images.githubusercontent.com/93396250/149443773-4e7ced18-8f2b-40c2-b403-af0f3d6dd414.JPG)
 
 ![8](https://user-images.githubusercontent.com/93834732/149430702-dc78dd00-88d6-4003-932b-70e5cc4b3e5e.GIF)
 
 *P9*
 
+![19](https://user-images.githubusercontent.com/93396250/149443780-f37b5ea8-03fe-47c1-a858-aa94185b7419.JPG)
+
 ![9](https://user-images.githubusercontent.com/93834732/149430721-9cc25f2c-c552-4107-a994-03a3768d4788.GIF)
 
 *P10*
+
+![20](https://user-images.githubusercontent.com/93396250/149443789-3eb9bcdb-5b0e-4ea4-b9c2-bc2ea93d4790.JPG)
 
 ![10](https://user-images.githubusercontent.com/93834732/149430741-37ec128d-7b62-4ef8-8787-6eff0de916f5.GIF)
         
