@@ -4,15 +4,15 @@
  
         General: 
 
-
+Comprobar experimentalmente el Teorema de la Máxima Trasnferencia de Potencia
 
         Específicos: 
  
-1.  
-        
-2. 
-        
-3. 
+1. Aplicar el Teorema de la Máxima Trasnferencia de Potencia mediante el armado de un circuito resistivo en Tinkercad y DCACLAB.
+
+2. Aplicar el Teorema de la Máxima Trasnferencia de Potencia para el correcto cálculo de la potencia que pasa atraves de una determinada resistencia.
+
+3. Comprobar que los resultados teóricos calculados mediante el Teorema de la Máxima Trasnferencia de Potencia coincidan con los valores medidos en el simulador DCACLAB.
         
 
 ## 2. MARCO TEÓRICO
@@ -56,7 +56,46 @@ Circuito implementado en DCACLAB: https://dcaclab.com/experiments/50139-laborato
 ![10](https://user-images.githubusercontent.com/93396250/149423905-3928247f-8599-43a3-8ae5-f9d9164d5639.JPG)
        
         6.5.3. Calcule las potencia consumida por RL, para cada valor dado.
-        
+  
+  *P1*
+
+![1](https://user-images.githubusercontent.com/93834732/149430517-3d1b5486-aebf-4f14-ad59-12a2507d5591.GIF)
+
+*P2*
+
+![2](https://user-images.githubusercontent.com/93834732/149430546-ccddbe38-061c-4fab-8d74-c85ce0f2d33c.GIF)
+
+*P3*
+
+![3](https://user-images.githubusercontent.com/93834732/149430562-14cee16f-e5fe-4896-9b9d-c4d46eeda5a9.GIF)
+
+*P4*
+
+![4](https://user-images.githubusercontent.com/93834732/149430586-9027190e-75a9-4c98-944f-1c3a4309af25.GIF)
+
+*P5*
+
+![5](https://user-images.githubusercontent.com/93834732/149430610-cc46f37a-51bc-4f5d-84e4-a91bd1592f6e.GIF)
+
+*P6*
+
+![6](https://user-images.githubusercontent.com/93834732/149430631-2ce4ab90-e793-434d-9dbe-b070815460dc.GIF)
+
+*P7*
+
+![7](https://user-images.githubusercontent.com/93834732/149430678-4d434dac-3d23-4679-b38b-72ecbe40fe02.GIF)
+
+*P8*
+
+![8](https://user-images.githubusercontent.com/93834732/149430702-dc78dd00-88d6-4003-932b-70e5cc4b3e5e.GIF)
+
+*P9*
+
+![9](https://user-images.githubusercontent.com/93834732/149430721-9cc25f2c-c552-4107-a994-03a3768d4788.GIF)
+
+*P10*
+
+![10](https://user-images.githubusercontent.com/93834732/149430741-37ec128d-7b62-4ef8-8787-6eff0de916f5.GIF)
         
         6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
         
@@ -99,12 +138,11 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 ## 6. CONCLUSIONES
 
-   1.
+   1.Se ha logrado el correcto armado y funcionamiento del circuito propuesto en el laboratorio, se ha usado el simulador tinkercad y tambien DCACLAB para el armado de dicho circuito.
         
-   2.  
+   2. Se uso el Teorema de la Máxima Trasnferencia de Potencia para el correcto cálculo de la potencia que pasa atraves de RL, resistencia que variaba su valor.
         
-   3. 
-        
+   3. Se pudo comprobar que tanto los valores calculados teóricamente mediante el Teorema de la Máxima Trasnferencia de Potencia y los valores medidos en el simulador DCACLAB han coincidido, con esto podemos concluir que el Teorema de la Máxima Trasnferencia de Potencia es correcto.
 
 
 ## 7. BIBLIOGRAFÍA
