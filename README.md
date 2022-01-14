@@ -155,8 +155,7 @@ Se debe calcular el %error=(valor experimental - valorreal/valorreal ) *100
 
 ## 5. VIDEO
 
-        Link del video ¨Informe de laboratorio 1¨ en donde se explica la teoria de las Leyes de Kirchhoff mediante 
-        la construcción de un circuito electrico basico, además se demuestra que las Leyes se cumplen.
+        Link del video ¨Informe de laboratorio 5¨ en donde se comprueba experimentalmente el teorema de máxima transferencia de potencia.
  
 https://youtu.be/DT9w6g6n1lw
  
