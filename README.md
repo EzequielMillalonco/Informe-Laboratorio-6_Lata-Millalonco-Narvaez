@@ -144,9 +144,12 @@ El teorema si se cumple, esto basado en los cálculos teóricos y resultados med
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
+![image](https://user-images.githubusercontent.com/93396250/149447584-de4cd824-df1b-4eea-b462-73be52e6c8b0.png)
 
 
 **CÁLCULO DEL PORCENTAJE DE ERROR**
+
+
 
 ## 5. VIDEO
 
