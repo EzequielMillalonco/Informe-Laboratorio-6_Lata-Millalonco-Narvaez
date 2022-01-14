@@ -148,6 +148,9 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 **CÁLCULO DEL PORCENTAJE DE ERROR**
 
+Se debe calcular el %error=(valor experimental - valorreal/valorreal ) *100
+
+![WhatsApp Image 2022-01-13 at 22 40 59](https://user-images.githubusercontent.com/93826527/149529005-bc44a2d6-5ecd-4280-806a-0638e7de59d4.jpeg)
 
 
 ## 5. VIDEO
